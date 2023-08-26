@@ -1,0 +1,29 @@
+.imageuserr{
+    width: 60px;
+    height: 60px;
+    border-radius: 30%;
+    box-shadow: 5px 5px 15px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.datatableuser{
+box-shadow: 3px 3px 15px;
+margin-bottom: 20px;
+cursor: pointer;
+}
+.datatableuser:hover {
+    transform: scale(1.02);
+  }
+.table-values{
+    background-color: white;
+    padding: 20px 20px 20px 20px;
+    border-radius: 20px;
+    box-shadow: 4px 3px 10px;
+}
+.statusdata{
+    width: auto;
+    height: 20px;
+    background-color: aquamarine;
+    padding: 3px 5px 3px 5px;
+    border-radius: 20px;
+}

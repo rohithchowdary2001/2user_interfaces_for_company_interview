@@ -1,0 +1,18 @@
+.leftcontainer {
+    background-color: #e8e2ca;
+    width: auto;
+    height: 90.5vh;
+}
+.appli{
+    font-size: xx-large;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 150px;
+}
+.fil{
+    margin-top: 50px;
+    text-align: center;
+}
+.browse{
+    font-size: xx-large;
+}

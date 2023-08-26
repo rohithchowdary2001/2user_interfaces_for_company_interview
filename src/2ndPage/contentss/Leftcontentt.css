@@ -1,0 +1,18 @@
+.leftcontentmain{
+    width: auto;
+background-color: #f0f7f7;
+height: auto;
+padding-right: 100px;
+}
+.horsearchh{
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+    align-items: center;
+}
+.horsearchitemm{
+    background-color: transparent;
+    border: transparent;
+    border: none;
+    outline: none;
+}

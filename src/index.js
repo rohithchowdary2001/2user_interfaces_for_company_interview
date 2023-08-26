@@ -3,11 +3,14 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Appp from './2ndPage/App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Appp />
+    {/* <App/> */}
+    <div style={{textAlign:"center"}}>Developed by @Rohith Yadlapalli</div>
   </React.StrictMode>
 );
 

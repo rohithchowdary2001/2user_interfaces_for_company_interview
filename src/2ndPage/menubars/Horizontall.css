@@ -1,0 +1,18 @@
+.harcontainer{
+    width: 100%;
+    height: auto;
+    background-color: #37517d;
+    align-items: center;
+}
+.horsearch{
+    width: 600px;
+    height: 40px;
+    border-radius: 5px;
+    align-items: center;
+}
+.horsearchitem{
+    background-color: transparent;
+    border: transparent;
+    border: none;
+    outline: none;
+}
